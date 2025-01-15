@@ -76,5 +76,5 @@ resetButton.addEventListener('click', () => {
   toggleContainer.innerHTML = '';
 
   // Show the start button again
-  startButton.style.display = 'block';
+  //startButton.style.display = 'block';
 });
